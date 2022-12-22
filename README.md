@@ -1,2 +1,3 @@
 # Project_1-Cosmology
 This project was made as the first evaluation of the course "Cosmology" in Universidad de Guanajuato, División de Ciencias e Ingenierías, the professor in charge of the course is Alma González.
+In this project we explore the evolution of a homogeneous and isotropic Universe, in the standard cosmological model, Λ-CDM, also called the Benchmark model, to do this we need to solve the general Friedmann equation, taking into consideration the model and since it’s general, we need to solve this Differential equation numerically. We also compute observable quantities in order to compare with observations. We use the cosmological parameters given by the Planck experiment.
